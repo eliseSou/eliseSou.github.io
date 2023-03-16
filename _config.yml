@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Elise Souvannavong"
 title_separator          : "-"
 name                     : &name "Elise Souvannavong"
 description              : &description "I am French engineer student in computer science"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eliseSou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "eliseSou/eliseSou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elise Souvannavong"
   avatar           : "photo_cv.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Engineering Student at INSA Rouen"
   location         : "Paris, France"
   employer         :
   pubmed           :

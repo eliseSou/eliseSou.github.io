@@ -13,6 +13,7 @@ This is a Test
 My Goal 
 ======
 Bla bla bla
+[Download CV in english here](http://eliseSou.github.io/files/CV_latex.pdf)
 
 Getting started
 ======

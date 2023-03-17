@@ -13,7 +13,10 @@ My passion for science has led me to pursue a career in this field, with a focus
 
 My Goal 
 ======
-![CV_anglais](/assets/CV_latex.pdf)
+![CV_anglais](/assets/CV_latex-1.png)
+
+![CV_fr](/assets/CV_fr-1.png)
+
 
 
 CV anglais : [Download CV in english here](http://eliseSou.github.io/files/CV_latex.pdf)

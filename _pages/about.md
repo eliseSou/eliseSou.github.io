@@ -13,7 +13,8 @@ This is a Test
 My Goal 
 ======
 Bla bla bla
-[Download CV in english here](http://eliseSou.github.io/files/CV_latex.pdf)
+CV anglais : [Download CV in english here](http://eliseSou.github.io/files/CV_latex.pdf)
+CV français : [Download CV in french here](http://eliseSou.github.io/files/CV_fr.pdf)
 
 Getting started
 ======

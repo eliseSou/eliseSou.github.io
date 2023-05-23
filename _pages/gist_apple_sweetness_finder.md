@@ -1,9 +1,9 @@
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "final_report"
+excerpt: "final_report"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /gist_apple_sweetness_finder/
   - /about.html
 ---
 

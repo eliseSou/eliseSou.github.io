@@ -1,4 +1,5 @@
 permalink: /
+layout : default
 title: "final_report"
 author_profile: true
 redirect_from: 

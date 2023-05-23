@@ -12,9 +12,9 @@ Data Engineering course : Team 9 final Project, Apple sweetness finder
 The Team 
 ----------------
 First let me introduce our team : 
-+ Kim Junsig
++ Junsik Kim
 + Liu hyongsig
-+ Hwang Youngin
++ Youngin Choi
 + Elise Souvannavong
 
 Problem Definition
@@ -30,6 +30,13 @@ Indeed, our goal was to create a simple application which you could use on your 
 
 System Design
 -------------
+
+To make our project work we needed machine learning model which could detect apples and predict their sweetness, a server to host the trained model and the dataset, and a client-side application which could take pictures as input and communicate with the server. 
+
+
+Machine Learning component
+----------------
+
 
 
 System evaluation 

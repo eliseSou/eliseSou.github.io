@@ -35,7 +35,7 @@ System Design
 To make our project work we needed machine learning model which could detect apples and predict their sweetness, a server to host the trained model and the dataset, and a client-side application which could take pictures as input and communicate with the server. 
 To implement all that, we chose to host 
 
-### Hosting server
+### Training server
 
 The goal of this server was to host all the dataset and then train the model with GIST's CPU. 
 

@@ -57,10 +57,19 @@ To achieve our goal we needed a model capable to detect many apples in a frame, 
 For the backbone model, we chose to use a pre-trained YOLO model. We choose this model because it can do at the same time object segmentation and object classification. 
 After a few trials with different versions, we concluded that YOLOv5 was the most efficient for our project. 
 
-Then we trained it with the appel dataset and evaluated it through our laptop webcam with pictures from the dataset and real apples. We noticed some problems in different cases, for instance, it struggled to pick multiples apple at the same time or classify small size apples. Moreover, since the colour of apples is affected by differentiated lighting we had to augment our dataset. 
+Then we trained it with the appel dataset and evaluated it through our laptop webcam with pictures from the dataset and real apples. We noticed some problems in different cases, for instance, it struggled to pick multiples apple at the same time or classify small size apples. Moreover, since the colour of apples is affected by different lighting we had to augment our dataset. 
 
 
-### Data augmentation
+### Data preprocessing 
+
+### Dataset augmentation. 
+
+To achieve better performance and accuracy we had to augment our data to tackle extreme case. 
+By using python code we achieve to ; 
+darkening and lightening image
+reducing the size of apple while keeping the same background
+putting multiples apple on single pictures. 
+
 
 
 System evaluation 

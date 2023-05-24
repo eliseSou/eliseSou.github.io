@@ -49,7 +49,16 @@ At first we wanted to create a web application,
 Machine Learning component 
 ----------------
 
+To achieve our goal we needed a model capable to detect many apples in a frame, and then applying regression based on the detected apples to predict their sweetness level.
+
+
 ### YOLO model 
+
+For the backbone model, we chose to use a pre-trained YOLO model. We choose this model because it can do at the same time object segmentation and object classification. 
+After a few trials with different versions, we concluded that YOLOv5 was the most efficient for our project. 
+
+Then we trained it with the appel dataset and evaluated it through our laptop webcam with pictures from the dataset and real apples. We noticed some problems in different cases, for instance, it struggled to pick multiples apple at the same time or classify small size apples. Moreover, since the colour of apples is affected by differentiated lighting we had to augment our dataset. 
+
 
 ### Data augmentation
 

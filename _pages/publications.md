@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "GIST Final report"
 permalink: /gist_final_report/
 author_profile: false
 ---

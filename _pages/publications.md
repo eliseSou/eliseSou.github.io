@@ -2,12 +2,13 @@
 layout: archive
 title: "Publications"
 permalink: /gist_final_report/
-author_profile: true
+author_profile: false
 ---
 
 Data Engineering course : Team 9 final Project, Apple sweetness finder
 ======================================================
  Welcome ! This is the final report of team 9 as part of GIST Data Engineering course. The aim was to developp a ML project with a buiseness objectif. 
+ You can find the git repository [here](https://github.com/eliseSou/apple_swetness_finder).
 
 The Team 
 ----------------
@@ -34,9 +35,13 @@ System Design
 To make our project work we needed machine learning model which could detect apples and predict their sweetness, a server to host the trained model and the dataset, and a client-side application which could take pictures as input and communicate with the server. 
 To implement all that, we chose to host 
 
-### centralized server
+### Hosting server
+
+The goal of this server was to host all the dataset and then train the model with GIST's CPU. 
 
 ### Streamlit and Webserver
+
+At first we wanted to create a web application, 
 
 ### Mobile phone application 
 

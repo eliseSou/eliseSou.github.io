@@ -14,7 +14,7 @@ The Team
 ----------------
 First let me introduce our team : 
 + Junsik Kim
-+ Hyongsik Liu
++ Hyungseok Ryu
 + Youngin Choi
 + Elise Souvannavong
 

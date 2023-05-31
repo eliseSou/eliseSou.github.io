@@ -59,6 +59,7 @@ Amazon Elastic Compute Cloud (EC2) is utilized to host the web application on vi
 
 ### Mobile phone application 
 
+We changed the .pt format model trained on the server to .mlmodel format and then apply the image from the smartphone to the model using the UI to detect the apple and classify the sugar sweetness.
 
 <img width="596" alt="image" src="https://github.com/eliseSou/eliseSou.github.io/assets/125421860/931776d9-0f75-49f0-a8b2-e6e5b76fea44">
 

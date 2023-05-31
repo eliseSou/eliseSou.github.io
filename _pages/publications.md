@@ -135,6 +135,11 @@ Challenges and how we overcome them:
 2. Server design
 3. changing our buisness plan: 
 
+Initially, we aimed to develop a model for small farms, assisting farmers in classifying and selling their products based on fruit sweetness. We required a model capable of swiftly detecting and classifying apples on a conveyor belt. However, we discovered that our model was too slow and struggled to identify multiple apples in the same image.
+
+Consequently, we quickly devised an alternative solution by redirecting our product towards a different target audience. We successfully implemented our model into a mobile phone application, catering to personal use. Simultaneously, we continue to work on developing a model suitable for industrial use and plan to deploy it on a web server.
+
+
 Future work
 
 Broader Impacts

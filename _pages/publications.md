@@ -119,9 +119,13 @@ Augmentation (Size, Brightness, Synthesis) & Segmentation
 |13(A)|6740|1686|0.367|0.797|0.414|0.409|
 |14(A)|6740|1002|0.328|0.641|0.382|0.377|
 
-Applicaion demonstration
+Application demonstration
 -------------------
 
+App.
+Since it is difficult for consumers who want to buy apples at the supermarket or market to select high-sugar apples by measuring the sugar content by themselves, we developed an easily accessible application (only for IOS) to help them select high-sugar apples.
+The app. has two modes: 'Live Classification', which shows the sugar content of apples in real time through the phone's camera, and 'Photo Classification', which shows the sugar content of apples in the photo.
+The color of the bounding box is different depending on the sugar classes of the apples, and the quantity per class is shown in the table to better understand the number per class when there are many apples.
 
 Reflection 
 ----------------

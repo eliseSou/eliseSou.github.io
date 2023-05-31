@@ -130,7 +130,10 @@ The color of the bounding box is different depending on the sugar classes of the
 
 Reflection 
 ----------------
-
+Challenges and how we overcome them:
+1. Data augmentation
+2. Server design
+3. changing our buisness plan: 
 
 Broader Impacts
 --------------

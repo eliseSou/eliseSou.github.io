@@ -122,7 +122,7 @@ Augmentation (Size, Brightness, Synthesis) & Segmentation
 Application demonstration
 -------------------
 
-App.
+IOS Application
 
 Since it is difficult for consumers who want to buy apples at the supermarket or market to select high-sugar apples by measuring the sugar content by themselves, we developed an easily accessible application (only for IOS) to help them select high-sugar apples.
 The app. has two modes: 'Live Classification', which shows the sugar content of apples in real time through the phone's camera, and 'Photo Classification', which shows the sugar content of apples in the photo.

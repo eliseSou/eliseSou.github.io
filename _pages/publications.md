@@ -75,7 +75,30 @@ putting multiples apple on single pictures.
 System evaluation 
 ------------------
 
+Precision:
+Recall:
+mAP50:
+mAP50-95:
 
+Not Augmentation
+|Class|Images|Instances|Precision|Recall|mAP50|mAP50-95|
+|------|---|---|
+|All|6740|6740|0.551|0.775|0.642|0.632|
+|A|6740|1845|0.496|0.713|0.588|0.581|
+|B|6740|3426|0.557|0.948|0.68|0.673|
+|C|6740|1469|0.601|0.663|0.658|0.643|
+
+Augmentation (Size, Brightness, Synthesis) & Segmentation
+
+|Class|Images|Instances|Precision|Recall|mAP50|mAP50-95|
+|------|---|---|
+|All|6740|6740|0.323|0.667|0.363|0.357|
+|9(C)|6740|154|0.283|0.377|0.297|0.286|
+|10(C)|6740|676|0.313|0.641|0.333|0.327|
+|11(B)|6740|1371|0.332|0.694|0.371|0.363|
+|12(B)|6740|1851|0.318|0.85|0.381|0.377|
+|13(A)|6740|1686|0.367|0.797|0.414|0.409|
+|14(A)|6740|1002|0.328|0.641|0.382|0.377|
 Applicaion demonstration
 -------------------
 

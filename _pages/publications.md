@@ -85,6 +85,7 @@ mAP50:
 mAP50-95: 
 
 No Augmentation
+
 |Class|Images|Instances|Precision|Recall|mAP50|mAP50-95|
 |------|---|---|---|---|---|---|
 |All|6740|6740|0.551|0.775|0.642|0.632|

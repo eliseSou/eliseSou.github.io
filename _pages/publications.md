@@ -60,7 +60,8 @@ Amazon Elastic Compute Cloud (EC2) is utilized to host the web application on vi
 ### Mobile phone application 
 
 
-<img width="612" alt="image" src="https://github.com/eliseSou/eliseSou.github.io/assets/125421860/cf8547f6-1255-40f5-823a-b22bac828b6a">
+![image](https://github.com/eliseSou/eliseSou.github.io/assets/125421860/322b0a2d-a07c-47b6-bfb5-4fd22d54fe89)
+
 
 Machine Learning component 
 ----------------

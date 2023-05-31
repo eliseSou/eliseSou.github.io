@@ -132,7 +132,8 @@ The color of the bounding box is different depending on the sugar classes of the
 Reflection 
 ----------------
 Challenges and how we overcome them:
-1. Data augmentation: //
+1. Data augmentation:
+
 The sweetness of the apple is influenced by the color and shape of the apple, and the color of the apple depends on the light. Therefore, when measuring the sweetness of the apple with a webcam, there was a big change in the prediction depending on the amount of light the apple receives.
 In addition, the apple dataset that exists in the AI Hub has only one apple in one image, and in the dataset, there is no small size apple. Therefore, there have been cases where several small-sized apples are not well detected.
 To solve this problem, data augmentation was conducted. First, to reduce the effect of light, brighter, darker apples were added to the existing data, and we made synthesized images that contain several sizes of apples in a single image, and made images that have small size apple.

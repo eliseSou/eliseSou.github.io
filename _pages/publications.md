@@ -75,10 +75,10 @@ putting multiples apple on single pictures.
 System evaluation 
 ------------------
 
-Precision:
-Recall:
-mAP50:
-mAP50-95:
+Precision: 
+Recall: 
+mAP50: 
+mAP50-95: 
 
 Not Augmentation
 |Class|Images|Instances|Precision|Recall|mAP50|mAP50-95|

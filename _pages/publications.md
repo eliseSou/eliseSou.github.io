@@ -70,7 +70,8 @@ darkening and lightening image
 reducing the size of apple while keeping the same background
 putting multiples apple on single pictures.
 
-![image](https://github.com/eliseSou/eliseSou.github.io/assets/104540427/86ddfe64-9162-47ae-bbce-0278c6e5c47f)
+![image](https://github.com/eliseSou/eliseSou.github.io/assets/104540427/cdfb66ab-15ab-4c01-a536-ecb5b81da824)
+
 
 
 

@@ -99,6 +99,7 @@ Augmentation (Size, Brightness, Synthesis) & Segmentation
 |12(B)|6740|1851|0.318|0.85|0.381|0.377|
 |13(A)|6740|1686|0.367|0.797|0.414|0.409|
 |14(A)|6740|1002|0.328|0.641|0.382|0.377|
+
 Applicaion demonstration
 -------------------
 

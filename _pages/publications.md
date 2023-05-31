@@ -41,7 +41,21 @@ The goal of this server was to host all the dataset and then train the model wit
 
 ### Streamlit and Webserver
 
-At first we wanted to create a web application, 
+The Streamlit framework is used to develop the web application that will serve as the user interface for visualizing and interacting with the apple sugar content measurements. The web application is designed to provide a user-friendly and responsive interface for accessing real-time data, historical data, and performing further analysis.
+
+Amazon Elastic Compute Cloud (EC2) is utilized to host the web application on virtual servers in the cloud. EC2 provides scalable computing resources and allows for efficient management of the application's deployment and operation.
+
+**The basic pipeline of our system is as follows.**
+
+1.	The user launches the webcam by visiting http://3.38.219.136:8501/webcam_with_YOLO.
+2.	The webcam continuously captures video frames. The video frames are processed by the YOLO model for object detection.
+3.	The YOLO model identifies apple objects in the frames.
+4.	For each detected apple, the system extracts the region of interest (ROI) containing the apple. The ROI is analyzed to determine the sugar content of the apple.
+5.	The sugar content measurements are sent to the Streamlit framework for visualization. Streamlit renders the measurements in a user-friendly web interface.
+6.	Users can interact with the interface to view real-time measurements, historical data, and perform further analysis.
+
+
+
 
 ### Mobile phone application 
 

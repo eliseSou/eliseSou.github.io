@@ -130,6 +130,19 @@ Since it is difficult for consumers who want to buy apples at the supermarket or
 The app. has two modes: 'Live Classification', which shows the sugar content of apples in real time through the phone's camera, and 'Photo Classification', which shows the sugar content of apples in the photo.
 The color of the bounding box is different depending on the sugar classes of the apples, and the quantity per class is shown in the table to better understand the number per class when there are many apples.
 
+
+**Web Application**
+
+Traditionally, the sugar content of apples has been measured through destructive methods, which render the apples unusable after testing. To address this drawback, non-destructive sugar content measurement devices were introduced. However, their high prices hindered accessibility. To overcome this limitation, a web-based solution has emerged, allowing real-time assessment of apple sugar content without the need for destructive testing. This approach offers the advantage of not requiring direct sorting of a large quantity of apples.
+
++) images 
+
+To use the web application:
+1. After preparing the apples, Go to http://3.38.219.136:8501/webcam_with_YOLO.
+2. Click on “start button” to start the webcam.
+
+
+
 Reflection 
 ----------------
 Challenges and how we overcome them:

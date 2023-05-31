@@ -145,6 +145,8 @@ Initially, we aimed to develop a model for small farms, assisting farmers in cla
 
 Consequently, we quickly devised an alternative solution by redirecting our product towards a different target audience. We successfully implemented our model into a mobile phone application, catering to personal use. Simultaneously, we continue to work on developing a model suitable for industrial use and plan to deploy it on a web server.
 
+4. Communication 
+At first, it was tough communicating together as our team is composed of three Korean students and one international student. Different languages and cultures made it challenging to understand each other. But we didn't let that stop us! We found ways to improve, like using translation tools and having regular team meetings. As we worked together and listened to each other, our communication skills got better, and we became a stronger team. 
 
 Future work
 

@@ -52,8 +52,7 @@ To control the traffic flow and security, a Security Group is employed. A Securi
 Finally, the EC2 Instance resides within the Public Subnet. An EC2 Instance is a virtual server running in the cloud that can be used to host applications, websites, or perform various computing tasks. It is a fundamental building block in AWS and serves as the endpoint for the user's request after passing through the internet, Internet Gateway, VPC, and Public Subnet.
 
 
-![image](https://github.com/eliseSou/eliseSou.github.io/assets/127825259/fa883723-6946-4a1a-b277-39135e276783)
-
+![image](https://github.com/eliseSou/eliseSou.github.io/assets/127825259/b3bccb51-4948-4b31-8b6e-da1ed28f3710)
 
 ### Mobile phone application 
 

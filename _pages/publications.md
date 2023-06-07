@@ -59,7 +59,7 @@ Finally, the EC2 Instance resides within the Public Subnet. An EC2 Instance is a
 
 We changed the .pt format model trained on the server to .mlmodel format and then apply the image from the smartphone to the model using the UI to detect the apple and classify the sugar sweetness.
 
-<img width="600" alt="스크린샷 2023-06-07 오후 4 39 15" src="https://github.com/eliseSou/eliseSou.github.io/assets/125421860/c01a034b-8782-401b-97a6-4a8a5be3e495">
+<img width="640" alt="스크린샷 2023-06-07 오후 4 40 48" src="https://github.com/eliseSou/eliseSou.github.io/assets/125421860/6c965beb-2397-46e1-b6a3-4683a0d0a1d6">
 
 Machine Learning component 
 ----------------

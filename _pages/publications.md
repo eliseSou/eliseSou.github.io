@@ -193,4 +193,6 @@ The approach of using computer vision and deep learning models like YOLO to asse
 Broader Impacts
 --------------
 
-We achieved our goal of finding the sweetness of apples based on pictures, and we believe our work could be useful in the industry. Indeed, sorting and grading apples ensure that the consumer receives high-quality products and more to their liking. Customers could choose between a more intense taste or a milder taste. This could lead to an increase in the consumption of fruit which would have a positive impact on people’s health. 
+We achieved our goal of finding the sweetness of apples based on pictures, and we believe our work could be useful in the industry. Indeed, sorting and grading apples ensure that the consumer receives high-quality products and more to their liking. Customers could choose between a more intense taste or a milder taste. This could lead to an increase in the consumption of fruit which would have a positive impact on people’s health.
+
+Beside, by using our app, consumers can find apples that are sweet and flavorful, thereby increasing satisfaction with their purchases. In addition, our app can contribute to market transparency. Because our app can provide objective measurements of apple sweetness. This can empower consumers to make informed decisions and can promote fair competition among apple farmers.

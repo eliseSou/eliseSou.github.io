@@ -86,7 +86,7 @@ The total number of apple data in the AI hub is 535,691. The table below shows t
 |Fuji|259,425|
 |Total|535,691|
 
-We sued 33,707 arisu data for learning and evaluation because of the learning time and storage capacity. (Train: 26,967 (80%), Evaluation: 6740 (20%), Total: 33,707) In addition, because the YOLO model uses 640X480 size images, we resized all images to 640X480
+We used 33,707 arisu data for learning and evaluation because of the learning time and storage capacity. (Train: 26,967 (80%), Evaluation: 6740 (20%), Total: 33,707) In addition, because the YOLO model uses 640X480 size images, we resized all images to 640X480
 ### Dataset augmentation. 
 
 To achieve better performance and accuracy we had to augment our data to tackle extreme case. 

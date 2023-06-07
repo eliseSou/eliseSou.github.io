@@ -161,6 +161,9 @@ In addition, the apple dataset that exists in the AI Hub has only one apple in o
 To solve this problem, data augmentation was conducted. First, to reduce the effect of light, brighter, darker apples were added to the existing data, and we made synthesized images that contain several sizes of apples in a single image, and made images that have small size apple.
 
 2. Server design
+
+We encountered issues when attempting to deploy the app easily through Streamlit Community Cloud to a remote server. To establish a media stream connection, it was necessary to configure STUN/TURN servers. While free STUN servers provided by Google were available, media streaming did not function properly in our network environment. Through this document (https://github.com/whitphx/streamlit-webrtc), we learned that WebRTC packets could be blocked when the client is behind a firewall. As a result, we made the decision to build and deploy our own server directly through AWS.
+
 3. changing our buisness plan: 
 
 Initially, we aimed to develop a model for small farms, assisting farmers in classifying and selling their products based on fruit sweetness. We required a model capable of swiftly detecting and classifying apples on a conveyor belt. However, we discovered that our model was too slow and struggled to identify multiple apples in the same image.

@@ -138,7 +138,7 @@ Since it is difficult for consumers who want to buy apples at the supermarket or
 The app. has two modes: 'Live Classification', which shows the sugar content of apples in real time through the phone's camera, and 'Photo Classification', which shows the sugar content of apples in the photo.
 The color of the bounding box is different depending on the sugar classes of the apples, and the quantity per class is shown in the table to better understand the number per class when there are many apples.
 
-![D37324ED-CCD6-499E-A0CF-31F3992550A6](https://github.com/eliseSou/eliseSou.github.io/assets/125421860/dbb13d4c-f40b-4e2c-b224-24c915b2ceb1)
+<img width="500" alt="스크린샷 2023-06-07 오후 4 25 06" src="https://github.com/eliseSou/eliseSou.github.io/assets/125421860/ff7b7f07-d86e-4c46-b566-65814c246283">
 
 
 **Web Application**

@@ -149,6 +149,8 @@ The main utility of our app is to enable users to non-destructively measure the 
 
 ![Capture](https://github.com/eliseSou/eliseSou.github.io/assets/127825259/f91157ac-5520-4e9d-91cb-1b9497fa1bf1)
 
++)**We plan to record and upload real-time video on the demo day.**
+
 To use the web application:
 1. After preparing the apples, Go to http://3.38.219.136:8501/webcam_with_YOLO.
 2. Click on “start button” to start the webcam.

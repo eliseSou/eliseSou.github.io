@@ -179,7 +179,7 @@ Consequently, we quickly devised an alternative solution by redirecting our prod
 
 4. Communication 
 
-At first, it was tough communicating together as our team is composed of three Korean students and one international student. Different languages and cultures made it challenging to understand each other. But we didn't let that stop us! We found ways to improve, like using translation tools and having regular team meetings. As we worked together and listened to each other, our communication skills got better, and we became a stronger team. 
+At first, it was tough communicating together as our team is composed of three Korean students and one international student. Different languages and cultures made it challenging to understand each other. But we didn't let that stop us! We found ways to improve, like using translation tools and having weekly team meetings. As we worked together and listened to each other, our communication skills got better, and we became a stronger team. 
 
 
 

@@ -54,7 +54,7 @@ Amazon Elastic Compute Cloud (EC2) is utilized to host the web application on vi
 5.	The sugar content measurements are sent to the Streamlit framework for visualization. Streamlit renders the measurements in a user-friendly web interface.
 6.	Users can interact with the interface to view real-time measurements, historical data, and perform further analysis.
 
-
+![image](https://github.com/eliseSou/eliseSou.github.io/assets/127825259/fa883723-6946-4a1a-b277-39135e276783)
 
 
 ### Mobile phone application 

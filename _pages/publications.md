@@ -180,11 +180,12 @@ Consequently, we quickly devised an alternative solution by redirecting our prod
 At first, it was tough communicating together as our team is composed of three Korean students and one international student. Different languages and cultures made it challenging to understand each other. But we didn't let that stop us! We found ways to improve, like using translation tools and having regular team meetings. As we worked together and listened to each other, our communication skills got better, and we became a stronger team. 
 
 
+
 **Future work:**
 
 1. Generalizability to other fruits:
 
-The approach of using computer vision and deep learning models like YOLO to assess fruit quality can be extended to other fruits beyond apples. This could have broader impacts on the agricultural industry by enabling similar projects for detecting the ripeness, quality, or sweetness of different fruits. 
+The approach of using computer vision and deep learning models like YOLO to assess fruit quality can be extended to other fruits beyond apples. This could have broader impacts on the agricultural industry by enabling similar projects for detecting the ripeness, quality, or sweetness of different fruits. The potential applications could benefit various stakeholders, including farmers, distributors, and consumers.
 
 
 

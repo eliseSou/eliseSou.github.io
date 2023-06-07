@@ -39,20 +39,17 @@ To implement all that, we chose to host
 
 The goal of this server was to host all the dataset and then train the model with GIST's CPU. 
 
-### Streamlit and Webserver
+### Web
 
-The Streamlit framework is used to develop the web application that will serve as the user interface for visualizing and interacting with the apple sugar content measurements. The web application is designed to provide a user-friendly and responsive interface for accessing real-time data, historical data, and performing further analysis.
+The flow starts with the user, who interacts with the system by making a request or accessing a service. The request then travels over the internet, where it reaches the Internet Gateway. The Internet Gateway acts as the entry point, connecting the internet to the AWS Cloud infrastructure.
 
-Amazon Elastic Compute Cloud (EC2) is utilized to host the web application on virtual servers in the cloud. EC2 provides scalable computing resources and allows for efficient management of the application's deployment and operation.
+Within the AWS Cloud, the primary networking component is the Virtual Private Cloud (VPC). It allows you to create an isolated virtual network in the cloud and define subnets, security rules, and routing configurations.
 
-**The basic pipeline of our system is as follows.**
+The VPC consists of several components, including the Public Subnet. A Public Subnet is a subdivision of the VPC that is configured to be accessible from the internet. It has an associated route table that directs traffic in and out of the subnet.
 
-1.	The user launches the webcam by visiting http://3.38.219.136:8501/webcam_with_YOLO.
-2.	The webcam continuously captures video frames. The video frames are processed by the YOLO model for object detection.
-3.	The YOLO model identifies apple objects in the frames.
-4.	For each detected apple, the system extracts the region of interest (ROI) containing the apple. The ROI is analyzed to determine the sugar content of the apple.
-5.	The sugar content measurements are sent to the Streamlit framework for visualization. Streamlit renders the measurements in a user-friendly web interface.
-6.	Users can interact with the interface to view real-time measurements, historical data, and perform further analysis.
+To control the traffic flow and security, a Security Group is employed. A Security Group acts as a virtual firewall that defines inbound and outbound rules for network traffic to and from the associated resources. It ensures that only allowed traffic can reach the resources and protects them from unauthorized access.
+
+Finally, the EC2 Instance resides within the Public Subnet. An EC2 Instance is a virtual server running in the cloud that can be used to host applications, websites, or perform various computing tasks. It is a fundamental building block in AWS and serves as the endpoint for the user's request after passing through the internet, Internet Gateway, VPC, and Public Subnet.
 
 ![image](https://github.com/eliseSou/eliseSou.github.io/assets/127825259/fa883723-6946-4a1a-b277-39135e276783)
 

@@ -39,7 +39,7 @@ To implement all that, we chose to host
 
 The goal of this server was to host all the dataset and then train the model with GIST's CPU. 
 
-### Web
+### Web Application
 
 The flow starts with the user, who interacts with the system by making a request or accessing a service. The request then travels over the internet, where it reaches the Internet Gateway. The Internet Gateway acts as the entry point, connecting the internet to the AWS Cloud infrastructure.
 
@@ -50,6 +50,7 @@ The VPC consists of several components, including the Public Subnet. A Public Su
 To control the traffic flow and security, a Security Group is employed. A Security Group acts as a virtual firewall that defines inbound and outbound rules for network traffic to and from the associated resources. It ensures that only allowed traffic can reach the resources and protects them from unauthorized access.
 
 Finally, the EC2 Instance resides within the Public Subnet. An EC2 Instance is a virtual server running in the cloud that can be used to host applications, websites, or perform various computing tasks. It is a fundamental building block in AWS and serves as the endpoint for the user's request after passing through the internet, Internet Gateway, VPC, and Public Subnet.
+
 
 ![image](https://github.com/eliseSou/eliseSou.github.io/assets/127825259/fa883723-6946-4a1a-b277-39135e276783)
 

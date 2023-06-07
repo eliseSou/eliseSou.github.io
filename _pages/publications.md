@@ -154,7 +154,7 @@ To use the web application:
 
 Reflection 
 ----------------
-Challenges and how we overcome them:
+**Challenges and how we overcome them:**
 1. Data augmentation:
 
 The sweetness of the apple is influenced by the color and shape of the apple, and the color of the apple depends on the light. Therefore, when measuring the sweetness of the apple with a webcam, there was a big change in the prediction depending on the amount of light the apple receives.
@@ -177,7 +177,14 @@ Consequently, we quickly devised an alternative solution by redirecting our prod
 
 At first, it was tough communicating together as our team is composed of three Korean students and one international student. Different languages and cultures made it challenging to understand each other. But we didn't let that stop us! We found ways to improve, like using translation tools and having regular team meetings. As we worked together and listened to each other, our communication skills got better, and we became a stronger team. 
 
-Future work
+
+**Future work:**
+
+1. Generalizability to other fruits:
+
+The approach of using computer vision and deep learning models like YOLO to assess fruit quality can be extended to other fruits beyond apples. This could have broader impacts on the agricultural industry by enabling similar projects for detecting the ripeness, quality, or sweetness of different fruits. 
+
+
 
 Broader Impacts
 --------------

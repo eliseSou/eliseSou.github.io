@@ -131,14 +131,13 @@ The color of the bounding box is different depending on the sugar classes of the
 
 **Web Application**
 
-Traditionally, the sugar content of apples has been measured through destructive methods, which render the apples unusable after testing. To address this drawback, non-destructive sugar content measurement devices were introduced. However, their high prices hindered accessibility. To overcome this limitation, a web-based solution has emerged, allowing real-time assessment of apple sugar content without the need for destructive testing. This approach offers the advantage of not requiring direct sorting of a large quantity of apples.
+The main utility of our app is to enable users to non-destructively measure the sweetness of an apple in real-time. To achieve real-time functionality, we have decided to build a web application utilizing a webcam. Our application is well-suited for locations such as farms and markets, where apple sweetness measurement and classification can be performed, allowing for informed selection.
 
-+) images 
+![Capture](https://github.com/eliseSou/eliseSou.github.io/assets/127825259/f91157ac-5520-4e9d-91cb-1b9497fa1bf1)
 
 To use the web application:
 1. After preparing the apples, Go to http://3.38.219.136:8501/webcam_with_YOLO.
 2. Click on “start button” to start the webcam.
-
 
 
 Reflection 

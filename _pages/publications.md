@@ -76,7 +76,15 @@ Then we trained it with the appel dataset and evaluated it through our laptop we
 
 
 ### Data preprocessing 
+The total number of apple data in the AI hub is 535,691. The table below shows the components of the data. 
 
+|Apple Varieties|Data Num|
+|------|---|
+|Shinano Gold|43,374|
+|Arisu|42,130|
+|Hongro|190,762|
+|Fuji|259,425|
+|Total|535,691|
 ### Dataset augmentation. 
 
 To achieve better performance and accuracy we had to augment our data to tackle extreme case. 

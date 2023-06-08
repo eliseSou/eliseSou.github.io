@@ -182,7 +182,7 @@ At first, it was tough communicating together as our team is composed of three K
 
 1. Generalizability to other fruits:
 
-The approach of using computer vision and deep learning models like YOLO to assess fruit quality can be extended to other fruits beyond apples. This could have broader impacts on the agricultural industry by enabling similar projects for detecting the ripeness, quality, or sweetness of different fruits. The potential applications could benefit various stakeholders, including farmers, distributors, and consumers.
+The approach of using a deep learning model to evaluate fruit quality can be extended to other fruits besides apples. This can enable the detection of the growth, quality, or sweetness of different fruits, thereby having a broader impact on the agricultural industry.
 
 
 

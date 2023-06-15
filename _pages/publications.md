@@ -98,10 +98,8 @@ putting multiples apple on single pictures.
 System evaluation 
 ------------------
 
-Precision: 
-Recall: 
-mAP50: 
-mAP50-95: 
+When apples were divided into three classes, mAP50 was 64.2%. At this time, the number of B classes was 3,426, which was much higher than the number of A and C classes, so the mAP50 of B classes was higher than that of A and C.
+However, when apples were divided into six classes, mAP50 decreased to 50%. The performance decreased because of the increasing number of classes, but all classes showed similar performance.
 
 No Augmentation
 

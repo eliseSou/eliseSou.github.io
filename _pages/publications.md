@@ -182,6 +182,7 @@ At first, it was tough communicating together as our team is composed of three K
 The approach of using a deep learning model to evaluate fruit quality can be extended to other fruits besides apples. This can enable the detection of the growth, quality, or sweetness of different fruits, thereby having a broader impact on the agricultural industry.
 
 2. Small size apple detection
+
 Even though data augmentation was performed, the small size apple was not well detected. If we change the data augmentation method or add more data, the small size apple will be detected.
 
 

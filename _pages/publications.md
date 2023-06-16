@@ -185,6 +185,10 @@ The approach of using a deep learning model to evaluate fruit quality can be ext
 
 Even though data augmentation was performed, the small size apple was not well detected. If we change the data augmentation method or add more data, the small size apple will be detected.
 
+3. Use more apple varietites
+
+We only used Arisu data in this project. However, apples will be different in color and shape depending on the variety. Therefore, it will be very difficult to predict the sweetness of other varieties of apples. In the future, apple varieties such as Hongro or Fuji will also be used for learning.
+
 
 Broader Impacts
 --------------

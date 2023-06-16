@@ -187,7 +187,7 @@ Even though data augmentation was performed, the small size apple was not well d
 
 3. Use more apple varietites
 
-We only used Arisu data in this project. However, apples will be different in color and shape depending on the variety. Therefore, it will be very difficult to predict the sweetness of other varieties of apples. In the future, apple varieties such as Hongro or Fuji will also be used for learning.
+We only used Arisu data in this project. However, apples have different color and shape according to the variety. Therefore, it will be very difficult to predict the sweetness of other varieties of apples. In the future, apple varieties such as Hongro or Fuji will be used for learning.
 
 
 Broader Impacts
